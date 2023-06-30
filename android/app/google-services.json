@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649033712039",
+    "project_id": "free-vpn-26799",
+    "storage_bucket": "free-vpn-26799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649033712039:android:edda3e0f92016e7facf682",
+        "android_client_info": {
+          "package_name": "com.aditiMehra.vpnByAd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649033712039-p30a3ftll337eh721jb8hhdgr7u2soae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF1xPrklWQMU3SLQcI7NJ2GYsBD3eZQww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649033712039-p30a3ftll337eh721jb8hhdgr7u2soae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
